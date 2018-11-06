@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 77b4cfe69f9263e49bd6aee4934c5606
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fabryka 4F
+  fontNames:
+  - Fabryka 4F
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 49e81bcf1ff07444098e82e057799f36, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

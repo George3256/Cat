@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7b8c1c544dfa82d4b9a1e63bd10219b3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elektra Text Pro
+  fontNames:
+  - Elektra Text Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5362b9951477934459dd4d7fc80582c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
