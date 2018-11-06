@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: d02f1ee3cb20e6b459aaae5dae036c70
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cvbcvb
+    100002: dfgdfg
+    100004: dfgdfg1
+    100006: dfgdfgdf
+    100008: group1
+    100010: group2
+    100012: group3
+    100014: group4
+    100016: M4x14
+    100018: M4x14_2
+    100020: //RootNode
+    100022: ShaftConnector4mm
+    100024: ToolHex_01
+    100026: wer
+    100028: WhiteWheel90T
+    400000: cvbcvb
+    400002: dfgdfg
+    400004: dfgdfg1
+    400006: dfgdfgdf
+    400008: group1
+    400010: group2
+    400012: group3
+    400014: group4
+    400016: M4x14
+    400018: M4x14_2
+    400020: //RootNode
+    400022: ShaftConnector4mm
+    400024: ToolHex_01
+    400026: wer
+    400028: WhiteWheel90T
+    2100000: WhitePlastic
+    2100002: MetalLight
+    2100004: MetalLight1
+    2100006: WhitePlastic1
+    2300000: cvbcvb
+    2300002: dfgdfg
+    2300004: dfgdfg1
+    2300006: dfgdfgdf
+    2300008: M4x14
+    2300010: M4x14_2
+    2300012: ShaftConnector4mm
+    2300014: ToolHex_01
+    2300016: wer
+    2300018: WhiteWheel90T
+    3300000: cvbcvb
+    3300002: dfgdfg
+    3300004: dfgdfg1
+    3300006: dfgdfgdf
+    3300008: M4x14
+    3300010: M4x14_2
+    3300012: ShaftConnector4mm
+    3300014: ToolHex_01
+    3300016: wer
+    3300018: WhiteWheel90T
+    4300000: wer
+    4300002: dfgdfg
+    4300004: dfgdfgdf
+    4300006: dfgdfg1
+    4300008: cvbcvb
+    4300010: ToolHex_01
+    4300012: M4x14
+    4300014: M4x14_2
+    4300016: ShaftConnector4mm
+    4300018: WhiteWheel90T
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
