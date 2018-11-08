@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9c815ff521898fc419c60eade6d8f565
+guid: e79fbc3bed3ee7b448784e137b8f6ff0
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -72,8 +72,8 @@ ModelImporter:
     100132: Bip001 Uho_LNub
     100134: Bip001 Uho_R
     100136: Bip001 Uho_RNub
-    100138: //RootNode
-    100140: cat
+    100138: cat
+    100140: //RootNode
     100142: Circle001
     100144: eye_R
     100146: eye_R001
@@ -154,8 +154,8 @@ ModelImporter:
     400132: Bip001 Uho_LNub
     400134: Bip001 Uho_R
     400136: Bip001 Uho_RNub
-    400138: //RootNode
-    400140: cat
+    400138: cat
+    400140: //RootNode
     400142: Circle001
     400144: eye_R
     400146: eye_R001
@@ -189,22 +189,7 @@ ModelImporter:
     13700000: cat
     13700002: eye_R
     13700004: eye_R001
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u0413\u043B\u0430\u0437\u0430"
-    second: {fileID: 2100000, guid: 50d543c04d7155d43bc1abbb95f74496, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u0422\u0435\u043B\u043E"
-    second: {fileID: 2100000, guid: d550aa7489a936e4a9cdcb49b6ab9d6b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u042F\u0437\u044B\u043A"
-    second: {fileID: 2100000, guid: a4f5f533335065a4c88acafc666388f6, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
